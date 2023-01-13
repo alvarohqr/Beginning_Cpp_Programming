@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1672771797 source:c:\users\alvar\onedrive\documentos\cursos\beginning c++ programming - from beginner to beyond\l161_mystringmoveassigment\mystring.cpp
+	<iostream>
+	<cstring>
+	"Mystring.h"
+
+1672771810 c:\users\alvar\onedrive\documentos\cursos\beginning c++ programming - from beginner to beyond\l161_mystringmoveassigment\mystring.h
+
+1672773659 source:c:\users\alvar\onedrive\documentos\cursos\beginning c++ programming - from beginner to beyond\l161_mystringmoveassigment\main.cpp
+	<iostream>
+	<vector>
+	"Mystring.h"
+
