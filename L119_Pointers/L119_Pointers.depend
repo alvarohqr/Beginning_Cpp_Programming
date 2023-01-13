@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671912829 source:c:\users\alvar\onedrive\documentos\cursos\beginning c++ programming - from beginner to beyond\l119_pointers\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
