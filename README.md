@@ -1,2 +1,2 @@
-# Beginning_Cpp_Programming
+# Beginning C++ Programming
 Udemy C++ Programming Course
