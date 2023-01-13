@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672694302 source:c:\users\alvar\onedrive\documentos\cursos\beginning c++ programming - from beginner to beyond\l153_staticclassmembers\main.cpp
+	<iostream>
+	"Player.h"
+
+1672694326 c:\users\alvar\onedrive\documentos\cursos\beginning c++ programming - from beginner to beyond\l153_staticclassmembers\include\player.h
+	<string>
+
+1672694361 source:c:\users\alvar\onedrive\documentos\cursos\beginning c++ programming - from beginner to beyond\l153_staticclassmembers\src\player.cpp
+	"Player.h"
+
